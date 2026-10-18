@@ -21,9 +21,9 @@
 .statement{background:var(--hero-blue-light);color:var(--hero-blue-dark)}
 .statement .eyebrow,.statement-line em,.statement-mark{color:var(--hero-blue-dark)}
 .project-open{color:var(--hero-blue-light)}
-.hero-image{background-image:url('Portfolio/Jacob2.jpg');background-position:center 54%;filter:saturate(.86)}
+.hero-image{background-image:url('Jacob2.jpg');background-position:center 54%;filter:saturate(.86)}
 .image-field,.image-motion{background-image:none;background-color:#173b60}
-.image-still{background-image:url('Portfolio/Jacob2.jpg');background-position:center 56%;filter:saturate(.88)}
+.image-still{background-image:url('Jacob2.jpg');background-position:center 56%;filter:saturate(.88)}
 .project-video{display:block;position:relative;z-index:1;width:100%;height:100%;object-fit:cover;background:#173b60}
 .project-image:after{pointer-events:none}
 .project-video{height:calc(100% - 52px)}
